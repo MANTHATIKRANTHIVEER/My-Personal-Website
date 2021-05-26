@@ -1,0 +1,99 @@
+body{
+  text-align: center;
+  margin:0;
+}
+a{
+  color:#11999E;
+}
+.computer{
+  margin-right: 30px;
+  float: left;
+  width:25%;
+}
+.chillies{
+  float: right;
+  margin-left: 30px;
+  width:25%;
+}
+.container{
+  background-color: #E4F9F5;
+  padding-top: 100px;
+}
+.profile{
+    margin:50px auto;
+}
+h1{
+  color: #66BFBF;
+  margin: 50px auto 0 auto;
+  font-family: 'Tangerine', cursive;
+  font-size: 5.625rem;
+}
+h2{
+  color: #66BFBF;
+  font-size: 2.5rem;
+  font-weight: normal;
+}
+h3{
+  color: #11999E;
+}
+.Pro{
+  text-decoration: underline;
+}
+.Top-cloud{
+  position:absolute;
+  right: 150px;
+  top:50px;
+}
+.bottom-cloud{
+  position:absolute;
+  left:150px;
+}
+hr{
+  border:solid;
+  border-width: 9px 0 0 0;
+  width:100px;
+  border-style: dotted;
+  border-color: #EAF6F6;
+}
+.skills{
+  margin:50px auto;
+}
+.skill-row{
+  line-height: 2;
+  position:relative;
+  width: 50%;
+  margin:100px auto;
+  text-align: left;
+}
+#hot{
+  margin-top:200px;
+}
+.contact-me{
+  margin:50px auto;
+}
+.content{
+  margin:40px auto;
+  font-size:19px;
+}
+.btn{
+  color: white;
+  text-decoration: none;
+  border:solid;
+  background-color:#11999E;
+  padding: 10px;
+  border-radius: 10px;
+}
+.bottom-container{
+  line-height: 2;
+  background-color: #66BFBF;
+  padding: 50px;
+}
+.footer-link{
+  padding: 10px;
+  text-decoration: none;
+  font-size: 20px;
+  font-weight: bolder;
+}
+.copyright{
+  color:white;
+}
